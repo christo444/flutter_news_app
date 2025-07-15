@@ -1,3 +1,3 @@
 # news_app
 
-A new Flutter project.
+A fully functional news app built using flutter and api calls.
